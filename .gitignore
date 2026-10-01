@@ -1,0 +1,4 @@
+*.exe
+*.obj
+*.out
+.vscode/settings.json.user
