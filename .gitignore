@@ -1,4 +1,8 @@
+@echo off
 *.exe
-*.obj
-*.out
-.vscode/settings.json.user
+output.txt
+input.txt
+.vscode/
+run_cpp.bat
+run_cpp.ps1
+rules.vscode/
